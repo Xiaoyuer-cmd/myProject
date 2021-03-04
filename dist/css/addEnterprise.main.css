@@ -1,0 +1,41 @@
+
+.table[data-v-cca4d60a] {
+	width: 100%;
+	height: auto;
+}
+.tabletrfirst[data-v-cca4d60a] {
+	font-size: 16px;
+	font-weight: 600;
+	height: 56px;
+	background-color: #e8eaec;
+}
+.tabletrfirst th[data-v-cca4d60a] {
+	border: solid 1px #e8eaec;
+}
+.tbodyTable[data-v-cca4d60a] {
+	text-align: center;
+}
+.tbodyTable tr[data-v-cca4d60a] {
+	height: 46px;
+}
+.tbodyTable tr td[data-v-cca4d60a] {
+	box-sizing: border-box;
+	border: solid 1px #e8eaec;
+}
+.tbodyTable tr[data-v-cca4d60a]:hover {
+	background-color: #ebf7ff;
+	transition: all 500ms;
+}
+
+
+.entryClassRoot[data-v-3284da84] {
+  background-color: #08c;
+  text-align: center;
+  color: #fff;
+  padding: 20px 0px;
+}
+.TestBus[data-v-3284da84] {
+  padding: 20px;
+  border-bottom: solid 1px #e9e9e9;
+}
+
